@@ -1,6 +1,15 @@
 # C++ Boilerplate
 [![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
+---
+
+## Valgrind Excercise
+
+This projec is a done part of the Software Development for Robotics course at University of Maryland. 
+This project exposed us to Valgrind tool for undefined behavior checks, function and memory profiling, data race detection and memory leak detection. It also introduced us to KCachegrind which is a visualisation tool for memory profiling. 
+* valgrindOut1.txt has the outputs of the terminal before fixing the errors.
+* valgrindOut2.txt has the outputs of the terminal after fixing the errors.
+* kcachegrindScreenshot.png has the memory profile of the project. 
+
 ---
 
 ## Overview
